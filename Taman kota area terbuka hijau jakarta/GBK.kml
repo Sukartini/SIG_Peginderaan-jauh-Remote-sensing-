@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>GBK</name>
+    <NetworkLink>
+      <name>Taman kota area terbuka hijau jakarta</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1xg9Cmw662uSivL-c7ZtbYfH8fjK9T6I&lid=XATSUw4qxcc]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
